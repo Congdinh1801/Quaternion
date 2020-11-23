@@ -448,7 +448,7 @@ public final class Quaternion implements Serializable {
 
 	public static void main(String[] args) {
 		
-		
+		System.out.println("test2");
 		double[] vx = { 1, 0, 0 };// vector on x axis or i axis
 				
 		double[] v1 = { 1, 1, 1 };// vector v1 to rotate
