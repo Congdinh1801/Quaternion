@@ -1,4 +1,7 @@
 package quaternionpkg;
+//Linear Algebra FAll 2020
+//Team members: Dinh Hoang
+//Source:
 
 import java.math.BigInteger;
 

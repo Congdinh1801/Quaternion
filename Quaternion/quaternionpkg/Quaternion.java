@@ -1,4 +1,7 @@
 package quaternionpkg;
+//Linear Algebra FAll 2020
+//Team members: Dinh Hoang
+//Source:
 /*
  * Licensed to the Apache Software Foundation (ASF) under one or more
  * contributor license agreements.  See the NOTICE file distributed with
@@ -447,9 +450,6 @@ public final class Quaternion implements Serializable {
 
 
 	public static void main(String[] args) {
-		
-		System.out.println("test2");
-		System.out.println("test3");
 		double[] vx = { 1, 0, 0 };// vector on x axis or i axis
 				
 		double[] v1 = { 1, 1, 1 };// vector v1 to rotate
